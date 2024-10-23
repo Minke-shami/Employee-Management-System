@@ -1,0 +1,16 @@
+1 zhangsn 1 
+4 zhangsn 1 
+9 zhangsn 1 
+7 zhangsn 2 
+5 zhangsn 1 
+2 zhangsn 1 
+8 zhangsn 2 
+6 zhangsn 2 
+10 zhangsn 3 
+15 zhangsn 1 
+12 zhangsn 1 
+11 zhangsn 1 
+13 zhangsn 1 
+14 zhangsn 1 
+1 a 1 
+20 lishi 1 
